@@ -1,3 +1,3 @@
 # cmse202 practice
 
-update pre-class
+update pre-class assignment
